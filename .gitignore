@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+!.vscode/extensions.json
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+.DS_Store

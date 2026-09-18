@@ -1,5 +1,12 @@
 # STM32 + ESP32 CAN-Based Closed-Loop Stepper Motor Controller
 
+> [!IMPORTANT]
+> **This repository has been superseded by a new version of the project.**
+>
+> Development has moved to **[Vehicle-ECU-with-STM32]([NEW_REPO_URL](https://github.com/hmei3-hash/Vehicle-ECU-with-STM32))**, which expands the project into a CAN-based embedded control system with Linux debugging, automated validation, telemetry, and firmware-update tooling.
+>
+> This repository is kept for reference and documents the earlier STM32 + ESP32 architecture.
+
 A heterogeneous two-node motor control system. An **STM32F4** node closes a
 1 kHz position loop around a TMC2209 stepper driver and an AS5600 magnetic
 encoder. An **ESP32** node supplies setpoints, drives the operator interface,

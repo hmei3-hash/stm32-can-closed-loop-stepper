@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **This repository has been superseded by a new version of the project.**
 >
-> Development has moved to **[Vehicle-ECU-with-STM32]([NEW_REPO_URL](https://github.com/hmei3-hash/Vehicle-ECU-with-STM32))**, which expands the project into a CAN-based embedded control system with Linux debugging, automated validation, telemetry, and firmware-update tooling.
+> Development has moved to **[Vehicle-ECU-with-STM32][https://github.com/hmei3-hash/Vehicle-ECU-with-STM32]**, which expands the project into a CAN-based embedded control system with Linux debugging, automated validation, telemetry, and firmware-update tooling.
 >
 > This repository is kept for reference and documents the earlier STM32 + ESP32 architecture.
 
